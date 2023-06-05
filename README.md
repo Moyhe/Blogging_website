@@ -2,7 +2,7 @@
 
 First clone this repository, install the dependencies, and setup your .env file.
 
-1- git clone [git@github.com:JeffreyWay/Laravel-From-Scratch-Blog-Project.git blog](https://github.com/Moyhe/Blogging_website.git)
+1- git clone https://github.com/Moyhe/Blogging_website.git
 
 2- composer install
 
