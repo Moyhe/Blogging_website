@@ -2,13 +2,14 @@
 
 First clone this repository, install the dependencies, and setup your .env file.
 
-1- git clone git@github.com:JeffreyWay/Laravel-From-Scratch-Blog-Project.git blog
+1- git clone [git@github.com:JeffreyWay/Laravel-From-Scratch-Blog-Project.git blog](https://github.com/Moyhe/Blogging_website.git)
 2- composer install
 3- cp .env.example .env
 
 Then create the necessary database.
 
 1- php artisan db
+
 2- create database blog
 
 And run the initial migrations and seeders.
