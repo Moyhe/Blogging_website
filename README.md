@@ -31,6 +31,8 @@ php artisan key:generate --ansi
 
 php artisan migrate
 
-7. php artisan migrate --seed
+7. seed your data
+
+php artisan migrate --seed
 
 
