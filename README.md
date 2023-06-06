@@ -1,4 +1,7 @@
-## Installation with docker
+# Laravel 10 Blog
+
+laravel 10 blog website with docker and postgresql. it has admin panel for managing posts.
+# Installation with docker
 
 1. Clone the project
 
